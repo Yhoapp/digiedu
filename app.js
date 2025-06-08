@@ -1,22 +1,22 @@
 const posts = [
   {
     username: "teacher",
-    image: "foto/1.jpg",
+    image: "1.jpg",
     caption: "Programmirleme! elbetde biz bilen öwren🤖📘",
   },
   {
     username: "code_",
-    image: "foto/3.jpg",
+    image: "3.jpg",
     caption: "Kodlamak bir sungatdyr 🎨💻",
   },
   {
     username: "digiedu_learning",
-    image: "foto/2.png",
+    image: "2.png",
     caption: "Programmirle wertual dünýä 🕶️🌐",
   },
   {
     username: "mobile_academy",
-    image: "foto/4.jpg",
+    image: "4.jpg",
     caption: "Tehnologiýany ulanmagy başar 📱📚",
   }
 ];
