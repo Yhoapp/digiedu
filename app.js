@@ -11,7 +11,7 @@ const posts = [
   },
   {
     username: "digiedu_learning",
-    image: "2.png",
+    image: "5.jpg",
     caption: "Programmirle wertual dünýä 🕶️🌐",
   },
   {
